@@ -1,4 +1,0 @@
-print("aaaaaa")
-buzhidao zhongwen nengbuneng zhichi a 
-不知道中文能不能支持啊
-132456
